@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+    height: 1000vh;
+    font-family: 'Poppins', sans-serif;
+}
